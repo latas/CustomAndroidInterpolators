@@ -8,5 +8,5 @@ Use it with Animation, ObjectAnimators, ValueAnimators and AnimatorSets object!
 ``` java
 animation.setInterpolator(new BounceInterpolator(animatioDuration, EaseInterpolator.InterpolatorType.EASE_IN));
 animator.setInterpolator(new BounceInterpolator(animatorDuration, EaseInterpolator.InterpolatorType.EASE_IN));
-animSet.setInterpolator(new BounceInterpolator(animatorDuration, EaseInterpolator.InterpolatorType.EASE_OUT));
+animSet.setInterpolator(new BounceInterpolator(animSetDuration, EaseInterpolator.InterpolatorType.EASE_OUT));
 ```
