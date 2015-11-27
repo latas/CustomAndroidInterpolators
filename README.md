@@ -1,6 +1,6 @@
 # Andoid Custom Interpolators
 Easing custom interpolators. Just clone it, import to your project and have fun!!
-Use it with Animation, ObjectAnimators, ValueAnimators and AnimatorSets object! 
+Use it with Animation, ObjectAnimators, ValueAnimators and AnimatorSets objects! 
 
 
 ### Usage
